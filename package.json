@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Junaid Mushtaq",
+  "author": "Junaid Mushtaq, Zain Ul Abedin",
   "license": "ISC",
   "dependencies": {
     "truffle-hdwallet-provider": "0.0.3"
